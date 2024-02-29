@@ -65,16 +65,16 @@ YOLOv5 实时检测[详情见 Wandb](https://wandb.ai/xiezicong/YOLOv5/)和数�
 YOLOv5 测试指标和结果可视化：
 
 <div align="center">
-  <img src="./assets/test_metrics.png" width="50%" alt="测试指标">
-  <img src="./assets/yolo_det_result.png" width="50%" alt="测试样例可视化">
+  <img src="./assets/test_metrics.png" width="90%" alt="测试指标">
+  <img src="./assets/yolo_det_result.png" width="90%" alt="测试样例可视化">
 </div>
 
 小程序各页面截图：
 
 <div align="center">
-  <img src="./assets/search_by_name.png" width="150" style="margin-right: 10px;" alt="按照教室名字模糊查询">
-  <img src="./assets/search_by_time.png" width="150" style="margin-right: 10px;" alt="按照日期时间节次查询排课">
-  <img src="./assets/realtime_hc_vis.png" width="150" style="margin-right: 10px;" alt="实时动态教室人数柱状图">
-  <img src="./assets/subs_and_recom.png" width="150" style="margin-right: 10px;" alt="订阅列表和推荐列表">
-  <img src="./assets/tags_setting.png" width="150" style="margin-right: 10px;" alt="用户标签权重设置">
+  <img src="./assets/search_by_name.png" width="160" style="margin-right: 10px;" alt="按照教室名字模糊查询">
+  <img src="./assets/search_by_time.png" width="160" style="margin-right: 10px;" alt="按照日期时间节次查询排课">
+  <img src="./assets/realtime_hc_vis.png" width="160" style="margin-right: 10px;" alt="实时动态教室人数柱状图">
+  <img src="./assets/subs_and_recom.png" width="160" style="margin-right: 10px;" alt="订阅列表和推荐列表">
+  <img src="./assets/tags_setting.png" width="160" style="margin-right: 10px;" alt="用户标签权重设置">
 </div>
