@@ -1,7 +1,7 @@
 # AI 自习室
 
 <div align="center">
-  <img src="./assets/logo.png" width="50%" alt="Logo">
+  <img src="./assets/logo.png" width="90%" alt="Logo">
 </div>
 
 该项目旨在针对高校学生在自习高峰时段常奔波于各教室却苦于找不到心仪教室以及座位等问题进行初步解决，通过微信小程序方便快捷查询实时教室空闲情况，教室占用率会根据排课信息和计算机视觉算法动态修正，将教室视作商品，用户可根据自己的兴趣对自己偏爱的教室类型打上标签权重，系统可根据用户查询教室历史和用户给定标签权重，以及教室标签和实时占用数据，智能推荐用户偏爱的教室。
@@ -13,9 +13,9 @@
 - 算法：YOLOv5 用于人头检测模型训练，基于标签方式解决传统的基于内容的推荐算法的冷启动问题
 
 <div align="center">
-  <img src="./assets/module_arch.png" width="50%" alt="模块架构图">
-  <img src="./assets/system_arch.png" width="50%" alt="系统架构图">
-  <img src="./assets/data_flow.png" width="50%" alt="数据流图">
+  <img src="./assets/module_arch.png" width="90%" alt="模块架构图">
+  <img src="./assets/system_arch.png" width="90%" alt="系统架构图">
+  <img src="./assets/data_flow.png" width="90%" alt="数据流图">
 </div>
 
 ## 项目背景
@@ -54,11 +54,11 @@
 
 YOLOv5 实时检测[详情见 Wandb](https://wandb.ai/xiezicong/YOLOv5/)和数据库实时更新：
 
-<iframe width="50%" src="https://assets.mrxir.cloud/yolo_det.mp4" frameborder="0" allowfullscreen></iframe>
+<div><video controls src="https://assets.mrxir.cloud/yolo_det.mp4" muted="false"></video></div>
 
 微信小程序实时查询、推荐和订阅演示：
 
-<iframe width="50%" src="https://assets.mrxir.cloud/weapp_demo.mp4" frameborder="0" allowfullscreen></iframe>
+<div><video controls src="https://assets.mrxir.cloud/weapp_demo.mp4" muted="false"></video></div>
 
 ## 其他
 
@@ -72,9 +72,9 @@ YOLOv5 测试指标和结果可视化：
 小程序各页面截图：
 
 <div align="center">
-  <img src="./assets/search_by_name.png" width="100" style="margin-right: 10px;" alt="按照教室名字模糊查询">
-  <img src="./assets/search_by_time.png" width="100" style="margin-right: 10px;" alt="按照日期时间节次查询排课">
-  <img src="./assets/realtime_hc_vis.png" width="100" style="margin-right: 10px;" alt="实时动态教室人数柱状图">
-  <img src="./assets/subs_and_recom.png" width="100" style="margin-right: 10px;" alt="订阅列表和推荐列表">
-  <img src="./assets/tags_setting.png" width="100" style="margin-right: 10px;" alt="用户标签权重设置">
+  <img src="./assets/search_by_name.png" width="150" style="margin-right: 10px;" alt="按照教室名字模糊查询">
+  <img src="./assets/search_by_time.png" width="150" style="margin-right: 10px;" alt="按照日期时间节次查询排课">
+  <img src="./assets/realtime_hc_vis.png" width="150" style="margin-right: 10px;" alt="实时动态教室人数柱状图">
+  <img src="./assets/subs_and_recom.png" width="150" style="margin-right: 10px;" alt="订阅列表和推荐列表">
+  <img src="./assets/tags_setting.png" width="150" style="margin-right: 10px;" alt="用户标签权重设置">
 </div>
