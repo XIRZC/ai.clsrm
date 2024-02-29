@@ -6,6 +6,12 @@
 
 该项目旨在针对高校学生在自习高峰时段常奔波于各教室却苦于找不到心仪教室以及座位等问题进行初步解决，通过微信小程序方便快捷查询实时教室空闲情况，教室占用率会根据排课信息和计算机视觉算法动态修正，将教室视作商品，用户可根据自己的兴趣对自己偏爱的教室类型打上标签权重，系统可根据用户查询教室历史和用户给定标签权重，以及教室标签和实时占用数据，智能推荐用户偏爱的教室。
 
+## 项目背景
+
+- 高校学生在自习或上课高峰阶段常奔波于各教室却找不到心仪教室和座位
+- 当前用户主要使用产品教务系统存在空教室查询繁琐且经常出现异常，存在没有经常维护系统和改进系统的现象
+- 高校考研和经常自习的学生日益增多，教室资源难以维护、学生自习问题愈发突出
+
 ## 技术栈
 
 - 前端：Vant Weapp 组件库、ColorUI 样式库、Echarts 图表绘制
@@ -17,12 +23,6 @@
   <img src="./assets/system_arch.png" width="90%" alt="系统架构图">
   <img src="./assets/data_flow.png" width="90%" alt="数据流图">
 </div>
-
-## 项目背景
-
-- 高校学生在自习或上课高峰阶段常奔波于各教室却找不到心仪教室和座位
-- 当前用户主要使用产品教务系统存在空教室查询繁琐且经常出现异常，存在没有经常维护系统和改进系统的现象
-- 高校考研和经常自习的学生日益增多，教室资源难以维护、学生自习问题愈发突出
 
 ## 功能
 
@@ -54,11 +54,11 @@
 
 YOLOv5 实时检测[详情见 Wandb](https://wandb.ai/xiezicong/YOLOv5/)和数据库实时更新：
 
-<div><video controls src="https://assets.mrxir.cloud/yolo_det.mp4" muted="false"></video></div>
+https://github.com/XIRZC/ai.clsrm/assets/48874620/157c797b-f2c6-4e24-8329-ccece7598877
 
 微信小程序实时查询、推荐和订阅演示：
 
-<div><video controls src="https://assets.mrxir.cloud/weapp_demo.mp4" muted="false"></video></div>
+https://github.com/XIRZC/ai.clsrm/assets/48874620/3c37eb15-298d-40a5-8698-085eb4512ffe
 
 ## 其他
 
