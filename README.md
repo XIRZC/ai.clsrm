@@ -15,7 +15,7 @@
 ## 技术栈
 
 - 前端：Vant Weapp 组件库、ColorUI 样式库、Echarts 图表绘制
-- 后端：SSM(Spring Boot、Spring MVC、MyBatis) + MySQL
+- 后端：SSM(Spring、Spring MVC、MyBatis) + MySQL
 - 算法：YOLOv5 用于人头检测模型训练，基于标签方式解决传统的基于内容的推荐算法的冷启动问题
 
 <div align="center">
